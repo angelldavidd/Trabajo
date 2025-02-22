@@ -1,4 +1,4 @@
-# Humano
+# 1 Humano
     what is the background of the image?, 
     Is it rainy or sunny?,
     Is it a closed or open place?,
@@ -27,36 +27,36 @@
     {sujeto_extraido} have similar colors?, (Deprecated)
     Are {sujeto_extraido} far away from each other?, # condicional plural el insert se encarga (Deprecated)
     Do {sujeto_extraido} interact with each other?, # condicional plural el insert se encarga (Deprecate)
-## Preguntas debugging
+## 1.1 Preguntas debugging
     Have you been able to identify how many {sujeto_extraido} there are?,
     If {sujeto_extraido} change positions could you have another prediction of the situation described?,
     What is the most complicated characteristic or body part to define and determine?,
     If {sujeto_extraido} were doing another action, would it be another type of {sujeto_extraido}?,
-## Preguntas efectiveness
+## 1.2 Preguntas efectiveness
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## Preguntas eficiencia
+## 1.3 Preguntas eficiencia
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in skin color, clothing or posture, would the result of the prediction that they are {sujeto_extraido} be the same ,
-## Preguntas trust
+## 1.4 Preguntas trust
     Is there anything that might create doubt or uncertainty for you to say they are {sujeto_extraido}?,
-## Preguntas persuasiveness
+## 1.5 Preguntas persuasiveness
     Could you describe what is happening in the image?,
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## Preguntas sastifaccion
+## 1.6 Preguntas sastifaccion
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterexample to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## Preguntas educacion
+## 1.7 Preguntas educacion
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## Preguntas transparencia
+## 1.8 Preguntas transparencia
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
@@ -67,7 +67,7 @@
     Do you focus on the {sujeto_extraido} body shape to result in the result that they are {sujeto_extraido}?
 
 
-# Animal
+# 2 Animal
     what is the background of the image?,
     Is it rainy or sunny?,
     Is it a closed or open place?,
@@ -95,36 +95,36 @@
     {sujeto_extraido} have similar colors?, # condicionada plural 24 (Deprecated)
     Are {sujeto_extraido} far away from each other?, # condicionada plural 25 (Deprecated)
     Do {sujeto_extraido} interact with each other?, # condicionada plural 26 (Deprecated)
-## Preguntas debugging
+## 2.1 Preguntas debugging
     Have you been able to identify how many {sujeto_extraido} there are?,
     If the {sujeto_extraido} change positions could you have another prediction of the situation described?,
     What is the most complicated characteristic or body part to define and determine?,
     If the {sujeto_extraido} were doing another action, would it be another type of {sujeto_extraido}?,
-## Preguntas efectiveness
+## 2.2 Preguntas efectiveness
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## Preguntas eficiencia
+## 2.3 Preguntas eficiencia
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in skin color or posture, would the result of the prediction that they are {sujeto_extraido} be the same?,
-## Preguntas trust
+## 2.4 Preguntas trust
     Is there anything that might create doubt or uncertainty for you to say they are {sujeto_extraido}?,
-## Preguntas persuasiveness
+## 2.5 Preguntas persuasiveness
     Could you describe what is happening in the image?,
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## Preguntas sastifaccion
+## 2.6 Preguntas sastifaccion
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterexample to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## Preguntas educacion
+## 2.7 Preguntas educacion
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## Preguntas transparecia
+## 2.8 Preguntas transparecia
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
@@ -135,7 +135,7 @@
     Do you focus on the {sujeto_extraido} body shape to result in the result that they are {sujeto_extraido}?
 
 
-# Objeto
+# 3 Objeto
     what is the background of the image?, 
     Is it rainy or sunny?,
     Is it a closed or open place?,
@@ -157,36 +157,36 @@
     What physical characteristics could be differentiated other {sujeto_extraido}?,   
     {sujeto_extraido} have similar colors?, # condicionada (deprecated)
     Are {sujeto_extraido} far away from each other?, # condicionada (deprecated)
-## Preguntas debugging
+## 3.1 Preguntas debugging
     Have you been able to identify how many {sujeto_extraido} there are?,
     If the {sujeto_extraido} change positions could you have another prediction of the situation described?,
     What is the most complicated characteristic to define and determine?,
     If the {sujeto_extraido} were doing another action, would it be another type of {sujeto_extraido}?,
-## Preguntas efectiveness
+## 3.2 Preguntas efectiveness
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## Preguntas eficiencia
+## 3.3 Preguntas eficiencia
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in color or posture, would the result of the prediction that they are {sujeto_extraido} be the same?,
-## Preguntas trust
+## 3.4 Preguntas trust
     Is there anything that might create doubt or uncertainty for you to say they are {sujeto_extraido}?,
-## Preguntas persuasiveness
+## 3.5 Preguntas persuasiveness
     Could you describe what is happening in the image?,
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## Preguntas sastifaccion
+## 3.6 Preguntas sastifaccion
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterexample to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## Preguntas educacion
+## 3.7 Preguntas educacion
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## Preguntas transparencia
+## 3.8 Preguntas transparencia
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
@@ -197,7 +197,7 @@
     Do you focus on the {sujeto_extraido} shape to result in the result that they are {sujeto_extraido}?
 
 
-# Preguntas paisaje
+# 4 Preguntas paisaje
     what is the background of the image?, 
     Is it rainy or sunny?,
     Is it a closed or open place?,
@@ -219,35 +219,35 @@
     What features could be differentiated from other types of {sujeto_extraido}?,
     What physical characteristics could be differentiated from the opposite {sujeto_extraido}?,
     {sujeto_extraido} have similar colors?, # coindicionada
-## Preguntas debugging
+## 4.1 Preguntas debugging
     Have you been able to identify how many {sujeto_extraido} there are?,
     If the {sujeto_extraido} change positions could you have another prediction of the situation described?,
     If the {sujeto_extraido} were doing another action, would it be another type of {sujeto_extraido}?,
-## Preguntas efectiveness
+## 4.2 Preguntas efectiveness
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## Preguntas eficiencia
+## 4.3 Preguntas eficiencia
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other kind of {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in color or position, would the result of the prediction that they are {sujeto_extraido} be the same?,
-## Preguntas trust
+## 4.4 Preguntas trust
     Is there anything that might create doubt or uncertainty for you to say they are {sujeto_extraido}?,
-## Preguntas persuasiveness
+## 4.5 Preguntas persuasiveness
     Could you describe what is happening in the image?,
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## Preguntas sastifaccion
+## 4.6 Preguntas sastifaccion
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterfactual to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## Preguntas educacion
+## 4.7 Preguntas educacion
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## Preguntas transparencia
+## 4.8 Preguntas transparencia
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
