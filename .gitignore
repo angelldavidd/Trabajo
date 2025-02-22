@@ -1,7 +1,11 @@
 8.3-filtros-y-preguntas_solo_animal_overlap.ipynb
 9.3-procesing-metricas_solo_animal.ipynb
 10-formulario.ipynb
-8-filtros-y-preguntas.ipynb
+'8-filtros-y-preguntas.ipynb'
 6-base-de-casos-v2.ipynb
 7-modificacion-etiquetas.ipynb
 *.csv
+*.pickle
+*.png
+*.pkl
+*.txt
