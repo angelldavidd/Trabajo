@@ -36,7 +36,7 @@
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## 1.3 Preguntas eficiencia
+## 1.3 Preguntas efficiency
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in skin color, clothing or posture, would the result of the prediction that they are {sujeto_extraido} be the same ,
@@ -47,16 +47,16 @@
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## 1.6 Preguntas sastifaccion
+## 1.6 Preguntas satifaction
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterexample to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## 1.7 Preguntas educacion
+## 1.7 Preguntas education
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## 1.8 Preguntas transparencia
+## 1.8 Preguntas transparency
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
@@ -104,7 +104,7 @@
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## 2.3 Preguntas eficiencia
+## 2.3 Preguntas efficiency
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in skin color or posture, would the result of the prediction that they are {sujeto_extraido} be the same?,
@@ -115,16 +115,16 @@
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## 2.6 Preguntas sastifaccion
+## 2.6 Preguntas satifaction
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterexample to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## 2.7 Preguntas educacion
+## 2.7 Preguntas education
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## 2.8 Preguntas transparecia
+## 2.8 Preguntas transparency
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
@@ -166,7 +166,7 @@
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## 3.3 Preguntas eficiencia
+## 3.3 Preguntas efficiency
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in color or posture, would the result of the prediction that they are {sujeto_extraido} be the same?,
@@ -177,16 +177,16 @@
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## 3.6 Preguntas sastifaccion
+## 3.6 Preguntas satifaction
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterexample to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## 3.7 Preguntas educacion
+## 3.7 Preguntas education
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## 3.8 Preguntas transparencia
+## 3.8 Preguntas transparency
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
@@ -227,7 +227,7 @@
     Are there elements in the image that could be noisy enough to intervene in the prediction that they are {sujeto_extraido}?,
     What physical traits are considered for the prediction result to be {sujeto_extraido}?,
     Why do you think identifying that they are {sujeto_extraido} in the image is easy?,
-## 4.3 Preguntas eficiencia
+## 4.3 Preguntas efficiency
     What makes you think the {sujeto_extraido} are actually {sujeto_extraido} and not something else?,
     With which other kind of {sujeto_extraido} would the prediction be most likely to give a better result?,
     If there are subtle changes in color or position, would the result of the prediction that they are {sujeto_extraido} be the same?,
@@ -238,20 +238,19 @@
     Could the situation you predicted be used in other areas?,
     Could the situation you predicted have some example of counterfactual situation that could be useful?,
     How could the situation you have predicted above be better?,
-## 4.6 Preguntas sastifaccion
+## 4.6 Preguntas satifaction
     What would an image similar to the situation found in this image look like?,
     Can you describe a similar counterfactual to the situation you have predicted above?,
     What is the task or purpose of {sujeto_extraido}?,
     Could you in simpler words describe their function that you have predicted before?,
-## 4.7 Preguntas educacion
+## 4.7 Preguntas education
     What could stand out from the situation described above and be useful in similar situations?,
     Can you give essential concepts that are relevant to the situation described?,
     What aspects of the image have been detected that may attract attention?,
-## 4.8 Preguntas transparencia
+## 4.8 Preguntas transparency
     Why has it been obtained that the prediction is that they are {sujeto_extraido}?,
     How did you get the result that they are {sujeto_extraido}?,
     What do you focus on to get the prediction that they are {sujeto_extraido}?,
     What do you focus on {sujeto_extraido} to result in or say that they are {sujeto_extraido}?,
     Do you focus on parts of the {sujeto_extraido} bodies to infer that they are {sujeto_extraido}?,
     Do you focus on the {sujeto_extraido} body shape to result in the result that they are {sujeto_extraido}?"
-
