@@ -31,7 +31,7 @@ Contiene tablas de los resultados de las evaluaciones RMSE y ROAD
    git clone https://github.com/angelldavidd/Trabajo.git
 
 2. ```bash
-   cd notebook
+   cd Notebook
 
 3. ```bash
    code .
