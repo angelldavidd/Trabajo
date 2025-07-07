@@ -25,12 +25,16 @@ Contiene tablas de los resultados de las evaluaciones RMSE y ROAD
 - Etiquetas:
   Lista de clases del dataset CIFAR-100, dependencia para la aplicacion de Grad-Cam para la evaluación ROAD
 
-##Uso
-1. ```bash git clone https://github.com/angelldavidd/Trabajo.git
+## Uso
 
-2. ```cd notebook
+1. ```bash
+   git clone https://github.com/angelldavidd/Trabajo.git
 
-3. code .
+2. ```bash
+   cd notebook
+
+3. ```bash
+   code .
 
 ## Autor
 
