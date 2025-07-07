@@ -12,7 +12,7 @@ Este repositorio contiene el codigo de trabajo relacionado con el trabajo final 
 Contiene ficheros donde se ejemplifican el proceso iteretivo para el diseño de las preguntas
 
 - Notebook:
-Contiene los notebooks de python donde se exploraron los datasets explorados, el desarrollo de la aplicación de las preguntas al modelo VQA y de la evaluación del método.
+Contiene los notebooks de python ejecutables donde se exploraron los datasets explorados, el desarrollo de la aplicación de las preguntas al modelo VQA y de la evaluación del método.
 
 - Results:
 Contiene tablas de los resultados de las evaluaciones RMSE y ROAD
@@ -23,7 +23,7 @@ Contiene tablas de los resultados de las evaluaciones RMSE y ROAD
   Incluye las preguntas de cada tipo por categoria
 
 - Etiquetas:
-  Lista de clases del dataset CIFAR-100, dependencia para la aplicacion de Grad-Cam
+  Lista de clases del dataset CIFAR-100, dependencia para la aplicacion de Grad-Cam para la evaluación ROAD
 
 
 ## Autor
