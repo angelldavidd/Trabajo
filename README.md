@@ -12,7 +12,7 @@ Este repositorio contiene el codigo de trabajo relacionado con el trabajo final 
 Contiene ficheros donde se ejemplifican el proceso iteretivo para el diseño de las preguntas
 
 - Notebook:
-Contiene los notebooks de python ejecutables donde se exploraron los datasets, se desarrollo la implementación de las preguntas para el modelo VQA y la evaluación del método XAI.
+Contiene los notebooks de python ejecutables (enumerados) donde se exploraron los datasets, se desarrollo la implementación de las preguntas para el modelo VQA y la evaluación del método XAI.
 
 - Results:
 Contiene tablas de los resultados de las evaluaciones RMSE y ROAD
